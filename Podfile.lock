@@ -1,0 +1,15 @@
+PODS:
+  - AAPhotoLibrary (0.1.3)
+  - SimplePDFSwift (0.2.1)
+
+DEPENDENCIES:
+  - AAPhotoLibrary
+  - SimplePDFSwift
+
+SPEC CHECKSUMS:
+  AAPhotoLibrary: 7d8a7c7bfcf3588b3dc132292d2663422f7cec90
+  SimplePDFSwift: 98969bb38b924b473731c9c85cd78b467d15c633
+
+PODFILE CHECKSUM: 3565bcf9d9592e3ff2d8ff35481f1449b3cc168c
+
+COCOAPODS: 1.4.0
