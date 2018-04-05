@@ -8,4 +8,5 @@ target 'Rack-Tracker' do
   # Pods for Rack-Tracker
     pod "SimplePDFSwift"
     pod "AAPhotoLibrary"
+    pod 'IQKeyboardManagerSwift', '~> 5.0'
 end

@@ -1,15 +1,18 @@
 PODS:
   - AAPhotoLibrary (0.1.3)
+  - IQKeyboardManagerSwift (5.0.8)
   - SimplePDFSwift (0.2.1)
 
 DEPENDENCIES:
   - AAPhotoLibrary
+  - IQKeyboardManagerSwift (~> 5.0)
   - SimplePDFSwift
 
 SPEC CHECKSUMS:
   AAPhotoLibrary: 7d8a7c7bfcf3588b3dc132292d2663422f7cec90
+  IQKeyboardManagerSwift: 2e7dc7f98c111458c1ea2b373f893e8cf95e2b97
   SimplePDFSwift: 98969bb38b924b473731c9c85cd78b467d15c633
 
-PODFILE CHECKSUM: 3565bcf9d9592e3ff2d8ff35481f1449b3cc168c
+PODFILE CHECKSUM: e54a08a3188286ea36607af9217f7ec14151ba84
 
 COCOAPODS: 1.4.0
